@@ -19,12 +19,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: May 27, Sunday 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went back and reworked FreeCodeCamp challenges to relearn some basics.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: First Day of the 100 Days of Code challenge. Late start to the day. Started around 10:30pm but it feels good to finish day one strong. Feeling optimistic. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:
+1. [HTML5 and CSS](https://www.freecodecamp.org/evtwilliamson)
+
+**Time Spend**: 1 hour
