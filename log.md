@@ -29,3 +29,13 @@
 1. [HTML5 and CSS](https://www.freecodecamp.org/evtwilliamson)
 
 **Time Spend**: 1 hour
+
+### Day 2: May 28, Monday 
+
+**Today's Progress**: Continued working on Tribute Page for FCC. Was able to complete rough HTML frame of website.
+
+**Thoughts**: I need to post to twitter and committ to git earlier becuase I missed committing lastnight due to fall asleep early. 
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour
