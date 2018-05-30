@@ -39,3 +39,13 @@
 **Link(s) to work**:
 
 **Time Spend**: 1 hour
+
+### Day 3: May 29, Tuesday 
+
+**Today's Progress**: Countinued to work on tribute page for FCC. Also worked on C# challenges from hackerrank. Should be able to finish tribute page tomorrow (May 30, Wednesday). 
+
+**Thoughts**: Again, posted to twitter and git the day after (May 30, Wednesday) 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
