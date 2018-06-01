@@ -49,3 +49,13 @@
 **Link(s) to work**: 
 
 **Time Spend**: 1 hour
+
+### Day 4: May 30, Wednesday 
+
+**Today's Progress**: FreeCodeCamp update and database migration today so working on FCC project has been delayed. Tribute page is pretty much done. Continued to work personal site, rough wireframe.
+
+**Thoughts**: Need to stay focused and keep working. Hard work and consistency will pay off. 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
