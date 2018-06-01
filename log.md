@@ -59,3 +59,13 @@
 **Link(s) to work**: 
 
 **Time Spend**: 1 hour
+
+### Day 5: May 31, Thursday 
+
+**Today's Progress**: After FreeCodeCamp updated there are weird sign-in autoization bugs. So i just continued to work on my personal site and looked in CoverMyMeds and PairProgramming montly meet ups. (Local Dev Group)
+
+**Thoughts**: STAY FOCUSED AND WORK HARD. Hard work and consistency will pay off. Need to invest more time and effort. 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
