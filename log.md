@@ -69,3 +69,15 @@
 **Link(s) to work**: 
 
 **Time Spend**: 1 hour
+
+### Day 6: June 1, Friday 
+
+**Today's Progress**: So far, least productive day so far. Just some little reading and coding with javascript. Also, new goal is to learn the basics of GIT command line, although the github app is great I feel like it would be beneficial to learn it . 
+
+**Thoughts**: EVEN MORE IMPORTANT. NEED STAY FOCUSED AND WORK HARD. Hard work and consistency will pay off. Need to invest more time and effort. 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
+
+
