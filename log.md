@@ -80,4 +80,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 7: June 2, Saturday 
+
+**Today's Progress**: Continued to working on personal website, also looked into GIT command line.  
+
+**Thoughts**: Today and as well as the next couple day I will be working so time will be tight but I will still get atleast an hour in.  
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
 
