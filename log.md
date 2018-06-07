@@ -110,3 +110,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 10: June 5, Tuesday 
+
+**Today's Progress**: Worked through some problems with personal site. Need to post to Git or just host it somewhere so I can add a link, then watch ~1 hours worth of videos about react and ruby rails. Just perparing for CoverMyMeds PairProgramming so I am not completely lost. 
+
+**Thoughts**: Managed to stay focused for longer today. Overall not bad. Should do better.  
+
+**Link(s) to work**:
+
+**Time Spend**: 2 hour
+
