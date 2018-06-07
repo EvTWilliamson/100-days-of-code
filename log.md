@@ -120,3 +120,13 @@
 
 **Time Spend**: 2 hour
 
+### Day 11: June 6, Wednesday 
+
+**Today's Progress**: Watch a Ruby rails series, then work more on my personal site. Done with first page, working or more basic designs. Go git by next week is the goal. 
+
+**Thoughts**: Found that I didn't even commit for the last few days. So dumb. 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
+
