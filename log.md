@@ -90,3 +90,12 @@
 
 **Time Spend**: 1 hour
 
+### Day 8: June 3, Sunday 
+
+**Today's Progress**: Decided and registered for the PairProgramming Meet Up at CoverMyMeds, Started working on Survey Page for FreeCodeCamp
+
+**Thoughts**: I need to post before the day is over. I been getting in the habit of posting the day after. Also, I feel that I should be posting more detailed days but I don't know what to say.  
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
