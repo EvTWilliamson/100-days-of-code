@@ -99,3 +99,14 @@
 **Link(s) to work**: 
 
 **Time Spend**: 1 hour
+
+### Day 9: June 4, Monday 
+
+**Today's Progress**: Long Day at work but I managed to slowly stumble through an hour of working on the survey page for FreeCodeCamp.  
+
+**Thoughts**: Slowing down. EVEN MORE IMPORTANT. NEED STAY FOCUSED AND WORK HARD. Hard work and consistency will pay off. Need to invest more time and effort. 
+
+**Link(s) to work**: 
+
+**Time Spend**: 1 hour
+
