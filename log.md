@@ -152,3 +152,12 @@
 
 **Time Spend**: ~1 hour
 
+### Day 14: June 9, Saturday 
+
+**Today's Progress**: MOST productive day this challenge. Work ~3 hours on FCC with a friend at a local library. Plan a goal to meet back on the follow weekend to show each other progress to keep accountability. 
+
+**Thoughts**: Need to keep this going and put in the time to learn and grow. 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: ~3 hour
