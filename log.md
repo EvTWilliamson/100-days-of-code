@@ -141,3 +141,14 @@
 **Time Spend**: 1 hour
 
 
+
+### Day 13: June 8, Friday 
+
+**Today's Progress**: So far, least productive day. Just some light html coding.
+
+**Thoughts**: Need to do more. Also, new goal is to learn the basics of GIT command line, although the github app is great I feel like it would be beneficial to learn it. I say this because there is GIT101 talk in a few weeks i registered for. Last note, PairPogramming at CoverMyMeds has been cancelled for June and not meeting scheduled in July, very unfortunate. 
+
+**Link(s) to work**: 
+
+**Time Spend**: ~1 hour
+
