@@ -1,23 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day ##: Month Day, DayofWeek 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Time Spend**:
 
 ### Day 1: May 27, Sunday 
 
@@ -161,3 +152,13 @@
 **Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
 
 **Time Spend**: ~3 hour
+
+### Day 15: June 10, Sunday 
+
+**Today's Progress**: Few hours of FCC. Pretty lite day want to push for more. 
+
+**Thoughts**: An extra 30/60 mins a day can lead to 100 or more extra hours of learning if I keep it up. 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 2 hours
