@@ -241,3 +241,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 24: June 19, Tuesday 
+
+**Today's Progress**: Finshing CSS Grid. 
+
+**Thoughts**: Four week mark. Need to keep improving my skills as well as my effort put forwards learning. 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**:
+
