@@ -261,3 +261,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 26: June 21, Thursday 
+
+**Today's Progress**: Started on Tribute page for the HTML5 projects. 
+
+**Thoughts**: Been putting in 1 hour days. Need to put in longer days. 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+
