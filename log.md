@@ -281,3 +281,12 @@
 
 **Time Spend**: 1 hour 
 
+### Day 28: June 23, Saturday 
+
+**Today's Progress**: Finished Tribute Project and turned it in. Starting the next two project this week, Tribute page and survey form project.
+
+**Thoughts**:  
+
+**Link(s) to work**: https://codepen.io/EvTWilliamson/pen/JZZMWr?editors=1100
+
+**Time Spend**: 2 hours
