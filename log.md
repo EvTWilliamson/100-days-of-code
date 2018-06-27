@@ -231,3 +231,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 23: June 18, Monday 
+
+**Today's Progress**: FCC finishing CSS Flexbox and starting next section CSS Grid. 
+
+**Thoughts**:
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+
