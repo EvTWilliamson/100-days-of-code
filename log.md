@@ -181,3 +181,13 @@
 
 **Time Spend**: 1 hour
  
+### Day 18: June 13, Wednesday 
+
+**Today's Progress**: More FCC and alittle bit of my personal site
+
+**Thoughts**:
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+
