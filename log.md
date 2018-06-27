@@ -251,3 +251,13 @@
 
 **Time Spend**:
 
+### Day 25: June 20, Wednesday 
+
+**Today's Progress**: Working more on personal site. Got main page done color and style not done but i have a wire frame done with nav bar. 
+
+**Thoughts**: Excited to get into js to learn animations. 
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour
+
