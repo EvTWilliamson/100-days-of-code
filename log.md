@@ -171,3 +171,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 17: June 12, Tuesday 
+
+**Today's Progress**: Continuing working on FCC challenges. 
+
+**Thoughts**:
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+ 
