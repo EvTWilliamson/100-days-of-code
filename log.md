@@ -311,3 +311,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 31: June 26, Tuesday 
+
+**Today's Progress**: Started implementing CSS into my personal site
+
+**Thoughts**: Low productive day honestly. Need to work harder.
+
+**Link(s) to work**: 
+
+**Time Spend**: ~1 hour
+
