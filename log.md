@@ -191,3 +191,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 19: June 14, Thursday 
+
+**Today's Progress**: Worked on some hackerrank. OOP
+
+**Thoughts**: Need to focus even more and put more effort in. 
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour
+
