@@ -211,3 +211,13 @@
 
 **Time Spend**: ~1 hour
 
+### Day 21: June 16, Saturday 
+
+**Today's Progress**: Worked more on my personal site. Finishing v1.0 of page.
+
+**Thoughts**: After completeling HTML and CSS on FCC I have a much better understanding of how to build my site. I ended up deleting the first draft I did. Still need to look into hosting my site. Maybe cloud flare. Need to research
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour
+
