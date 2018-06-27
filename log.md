@@ -301,3 +301,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 30: June 25, Monday 
+
+**Today's Progress**: Finished Tribute Project and turned it in. Starting the next two project this week, Tribute page and survey form project.
+
+**Thoughts**:  
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour
+
