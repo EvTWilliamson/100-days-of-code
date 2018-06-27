@@ -271,3 +271,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 27: June 22, Friday 
+
+**Today's Progress**: Started reading and researching more about industry standards and what languages I should focus on. 
+
+**Thoughts**: Still working hard but I can do better. Also, I need to work on going to more meetups and meeting people. I need more advice and direction on what I should be learning. Also looking into coding bootcamps. 
+
+**Link(s) to work**:
+
+**Time Spend**: 1 hour 
+
