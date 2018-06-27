@@ -201,3 +201,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 20: June 15, Friday 
+
+**Today's Progress**: More FCC. Finishing up challenge to meet goal with friend. 
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: ~1 hour
+
