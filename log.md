@@ -221,3 +221,13 @@
 
 **Time Spend**: 1 hour
 
+### Day 22: June 17, Sunday 
+
+**Today's Progress**: Back to FCC. Working on CSS Flexbox section.
+
+**Thoughts**: Want to have all challenges but the project in the HTML5 section done by next saturday.
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+
