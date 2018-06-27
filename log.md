@@ -131,8 +131,6 @@
 
 **Time Spend**: 1 hour
 
-
-
 ### Day 13: June 8, Friday 
 
 **Today's Progress**: So far, least productive day. Just some light html coding.
@@ -162,3 +160,14 @@
 **Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
 
 **Time Spend**: 2 hours
+
+### Day 16: June 11, Monday 
+
+**Today's Progress**: Barely one hour of FCC work. 
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/evtwilliamson
+
+**Time Spend**: 1 hour
+
